@@ -1,6 +1,6 @@
-#Ref: http://www.shenlanxueyuan.com/
+# Ref: http://www.shenlanxueyuan.com/#
 
-##SLAM
+## SLAM
 
 **Q. 在视觉SLAM前段进行跟踪建图过程中, 一般可分为基于特征点、基于直接法和基于半直接法三种方式。一下属于基于半直接法的视觉SLAM是**
 
@@ -33,7 +33,7 @@
 **ANS:**
 
 
-##AR & VR
+## AR & VR
 
 **Q. 关于AR和VR, 一下那些说法是错误的(多选)  (悉见科技)**
 - 在AR体验中, 用户能看到真实世界; 在VR体验中, 用户看不到真实世界
@@ -43,7 +43,7 @@
 
 **ANS:**
 
-##Machine learning
+## Machine learning
 
 **Q. 下列哪项不是SVM的优势? (网易)**
 - 可以和核函数(kernel function)结合
@@ -56,7 +56,7 @@
 
 
 
-##Algorithm & Maths
+## Algorithm & Maths
 
 **有20个人去看电影, 电影票50元。其中只有10个人有50元, 另外10个人都只有一张面值100元的纸币, 电影院没有其他钞票可以找零, 问有多少种找零的方法?**
 
