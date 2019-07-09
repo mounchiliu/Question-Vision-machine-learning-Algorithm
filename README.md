@@ -1,4 +1,4 @@
-# Ref: http://www.shenlanxueyuan.com/#
+# Ref: http://www.shenlanxueyuan.com/
 
 ## SLAM
 
