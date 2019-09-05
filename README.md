@@ -15,6 +15,7 @@ Semi-dense visual odometry: Reference: https://blog.csdn.net/heyijia0327/article
                                        http://rpg.ifi.uzh.ch/docs/TRO17_Forster-SVO.pdf
 
 PTAM & ORB-SLAM --- Feature-based
+
 LSD-SLAM --- Direct-method
 
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -83,7 +84,9 @@ AR设备跟踪基本上都是inside-out, 但是现在也有很多VR设备采用�
 - D. 
 有的AR头显, 可以切断外部视线, 实现VR; 有的VR设备, 也可以通过摄像头的方式实现video see-through AR
 
+
 Reference: 
+
 inside-out tracking https://blog.csdn.net/shenshen211/article/details/79008013
             
 outside-in tracking https://xinreality.com/wiki/Outside-in_tracking
@@ -131,7 +134,9 @@ outside-in tracking https://xinreality.com/wiki/Outside-in_tracking
 **ANS:** D
 
 K-means是聚类 属于unsupervised learning
+
 Reference: https://zhuanlan.zhihu.com/p/26304729
+
 Note: 朴素贝叶斯基于各特征之间相互独立
 
 ----------------------------------------------------------------------------------------------------------------------------------
