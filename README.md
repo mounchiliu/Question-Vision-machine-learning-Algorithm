@@ -11,7 +11,9 @@
 
 **ANS:** B
 
-Semi-dense visual odometry: Reference: https://blog.csdn.net/heyijia0327/article/details/51083398
+Semi-dense visual odometry: SVO
+
+Reference: https://blog.csdn.net/heyijia0327/article/details/51083398
                                        http://rpg.ifi.uzh.ch/docs/TRO17_Forster-SVO.pdf
 
 PTAM & ORB-SLAM --- Feature-based
